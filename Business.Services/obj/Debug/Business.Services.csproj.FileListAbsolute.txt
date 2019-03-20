@@ -1,0 +1,6 @@
+C:\David_Cotal\Desarrollos\ApiNeumaticos\Business.Services\obj\Debug\Business.Services.csprojAssemblyReference.cache
+C:\David_Cotal\Desarrollos\ApiNeumaticos\Business.Services\obj\Debug\Business.Services.csproj.CoreCompileInputs.cache
+C:\David_Cotal\Desarrollos\ApiNeumaticos\Business.Services\bin\Debug\Business.Services.dll
+C:\David_Cotal\Desarrollos\ApiNeumaticos\Business.Services\bin\Debug\Business.Services.pdb
+C:\David_Cotal\Desarrollos\ApiNeumaticos\Business.Services\obj\Debug\Business.Services.dll
+C:\David_Cotal\Desarrollos\ApiNeumaticos\Business.Services\obj\Debug\Business.Services.pdb

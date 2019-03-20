@@ -1,0 +1,85 @@
+C:\David_Cotal\Desarrollos\ApiNeumaticos\Servicio Cliente\obj\Debug\Servicio Cliente.csprojAssemblyReference.cache
+C:\David_Cotal\Desarrollos\ApiNeumaticos\Servicio Cliente\obj\Debug\Servicio Cliente.csproj.CoreCompileInputs.cache
+C:\David_Cotal\Desarrollos\ApiNeumaticos\Servicio Cliente\bin\ApplicationInsights.config
+C:\David_Cotal\Desarrollos\ApiNeumaticos\Servicio Cliente\bin\roslyn\csc.exe
+C:\David_Cotal\Desarrollos\ApiNeumaticos\Servicio Cliente\bin\roslyn\csc.exe.config
+C:\David_Cotal\Desarrollos\ApiNeumaticos\Servicio Cliente\bin\roslyn\csc.rsp
+C:\David_Cotal\Desarrollos\ApiNeumaticos\Servicio Cliente\bin\roslyn\csi.exe
+C:\David_Cotal\Desarrollos\ApiNeumaticos\Servicio Cliente\bin\roslyn\csi.rsp
+C:\David_Cotal\Desarrollos\ApiNeumaticos\Servicio Cliente\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\David_Cotal\Desarrollos\ApiNeumaticos\Servicio Cliente\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\David_Cotal\Desarrollos\ApiNeumaticos\Servicio Cliente\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\David_Cotal\Desarrollos\ApiNeumaticos\Servicio Cliente\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\David_Cotal\Desarrollos\ApiNeumaticos\Servicio Cliente\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\David_Cotal\Desarrollos\ApiNeumaticos\Servicio Cliente\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\David_Cotal\Desarrollos\ApiNeumaticos\Servicio Cliente\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\David_Cotal\Desarrollos\ApiNeumaticos\Servicio Cliente\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\David_Cotal\Desarrollos\ApiNeumaticos\Servicio Cliente\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\David_Cotal\Desarrollos\ApiNeumaticos\Servicio Cliente\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\David_Cotal\Desarrollos\ApiNeumaticos\Servicio Cliente\bin\roslyn\System.AppContext.dll
+C:\David_Cotal\Desarrollos\ApiNeumaticos\Servicio Cliente\bin\roslyn\System.Collections.Immutable.dll
+C:\David_Cotal\Desarrollos\ApiNeumaticos\Servicio Cliente\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\David_Cotal\Desarrollos\ApiNeumaticos\Servicio Cliente\bin\roslyn\System.IO.FileSystem.dll
+C:\David_Cotal\Desarrollos\ApiNeumaticos\Servicio Cliente\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\David_Cotal\Desarrollos\ApiNeumaticos\Servicio Cliente\bin\roslyn\System.Reflection.Metadata.dll
+C:\David_Cotal\Desarrollos\ApiNeumaticos\Servicio Cliente\bin\roslyn\vbc.exe
+C:\David_Cotal\Desarrollos\ApiNeumaticos\Servicio Cliente\bin\roslyn\vbc.exe.config
+C:\David_Cotal\Desarrollos\ApiNeumaticos\Servicio Cliente\bin\roslyn\vbc.rsp
+C:\David_Cotal\Desarrollos\ApiNeumaticos\Servicio Cliente\bin\roslyn\VBCSCompiler.exe
+C:\David_Cotal\Desarrollos\ApiNeumaticos\Servicio Cliente\bin\roslyn\VBCSCompiler.exe.config
+C:\David_Cotal\Desarrollos\ApiNeumaticos\Servicio Cliente\bin\Servicio Cliente.dll.config
+C:\David_Cotal\Desarrollos\ApiNeumaticos\Servicio Cliente\bin\Servicio Cliente.dll
+C:\David_Cotal\Desarrollos\ApiNeumaticos\Servicio Cliente\bin\Servicio Cliente.pdb
+C:\David_Cotal\Desarrollos\ApiNeumaticos\Servicio Cliente\bin\Antlr3.Runtime.dll
+C:\David_Cotal\Desarrollos\ApiNeumaticos\Servicio Cliente\bin\Microsoft.AI.Agent.Intercept.dll
+C:\David_Cotal\Desarrollos\ApiNeumaticos\Servicio Cliente\bin\Microsoft.AI.DependencyCollector.dll
+C:\David_Cotal\Desarrollos\ApiNeumaticos\Servicio Cliente\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\David_Cotal\Desarrollos\ApiNeumaticos\Servicio Cliente\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\David_Cotal\Desarrollos\ApiNeumaticos\Servicio Cliente\bin\Microsoft.AI.Web.dll
+C:\David_Cotal\Desarrollos\ApiNeumaticos\Servicio Cliente\bin\Microsoft.AI.WindowsServer.dll
+C:\David_Cotal\Desarrollos\ApiNeumaticos\Servicio Cliente\bin\Microsoft.ApplicationInsights.dll
+C:\David_Cotal\Desarrollos\ApiNeumaticos\Servicio Cliente\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\David_Cotal\Desarrollos\ApiNeumaticos\Servicio Cliente\bin\Microsoft.Web.Infrastructure.dll
+C:\David_Cotal\Desarrollos\ApiNeumaticos\Servicio Cliente\bin\Newtonsoft.Json.dll
+C:\David_Cotal\Desarrollos\ApiNeumaticos\Servicio Cliente\bin\System.Net.Http.Formatting.dll
+C:\David_Cotal\Desarrollos\ApiNeumaticos\Servicio Cliente\bin\System.Web.Helpers.dll
+C:\David_Cotal\Desarrollos\ApiNeumaticos\Servicio Cliente\bin\System.Web.Http.dll
+C:\David_Cotal\Desarrollos\ApiNeumaticos\Servicio Cliente\bin\System.Web.Http.WebHost.dll
+C:\David_Cotal\Desarrollos\ApiNeumaticos\Servicio Cliente\bin\System.Web.Mvc.dll
+C:\David_Cotal\Desarrollos\ApiNeumaticos\Servicio Cliente\bin\System.Web.Optimization.dll
+C:\David_Cotal\Desarrollos\ApiNeumaticos\Servicio Cliente\bin\System.Web.Razor.dll
+C:\David_Cotal\Desarrollos\ApiNeumaticos\Servicio Cliente\bin\System.Web.WebPages.Deployment.dll
+C:\David_Cotal\Desarrollos\ApiNeumaticos\Servicio Cliente\bin\System.Web.WebPages.dll
+C:\David_Cotal\Desarrollos\ApiNeumaticos\Servicio Cliente\bin\System.Web.WebPages.Razor.dll
+C:\David_Cotal\Desarrollos\ApiNeumaticos\Servicio Cliente\bin\WebGrease.dll
+C:\David_Cotal\Desarrollos\ApiNeumaticos\Servicio Cliente\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\David_Cotal\Desarrollos\ApiNeumaticos\Servicio Cliente\bin\Newtonsoft.Json.xml
+C:\David_Cotal\Desarrollos\ApiNeumaticos\Servicio Cliente\bin\System.Net.Http.Formatting.xml
+C:\David_Cotal\Desarrollos\ApiNeumaticos\Servicio Cliente\bin\System.Web.Helpers.xml
+C:\David_Cotal\Desarrollos\ApiNeumaticos\Servicio Cliente\bin\System.Web.Http.xml
+C:\David_Cotal\Desarrollos\ApiNeumaticos\Servicio Cliente\bin\System.Web.Http.WebHost.xml
+C:\David_Cotal\Desarrollos\ApiNeumaticos\Servicio Cliente\bin\System.Web.Mvc.xml
+C:\David_Cotal\Desarrollos\ApiNeumaticos\Servicio Cliente\bin\System.Web.Optimization.xml
+C:\David_Cotal\Desarrollos\ApiNeumaticos\Servicio Cliente\bin\System.Web.Razor.xml
+C:\David_Cotal\Desarrollos\ApiNeumaticos\Servicio Cliente\bin\System.Web.WebPages.xml
+C:\David_Cotal\Desarrollos\ApiNeumaticos\Servicio Cliente\bin\System.Web.WebPages.Deployment.xml
+C:\David_Cotal\Desarrollos\ApiNeumaticos\Servicio Cliente\bin\System.Web.WebPages.Razor.xml
+C:\David_Cotal\Desarrollos\ApiNeumaticos\Servicio Cliente\bin\Antlr3.Runtime.pdb
+C:\David_Cotal\Desarrollos\ApiNeumaticos\Servicio Cliente\bin\Microsoft.ApplicationInsights.xml
+C:\David_Cotal\Desarrollos\ApiNeumaticos\Servicio Cliente\bin\Microsoft.AI.DependencyCollector.xml
+C:\David_Cotal\Desarrollos\ApiNeumaticos\Servicio Cliente\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\David_Cotal\Desarrollos\ApiNeumaticos\Servicio Cliente\bin\Microsoft.AI.WindowsServer.xml
+C:\David_Cotal\Desarrollos\ApiNeumaticos\Servicio Cliente\bin\Microsoft.AI.Web.xml
+C:\David_Cotal\Desarrollos\ApiNeumaticos\Servicio Cliente\bin\es\System.Net.Http.Formatting.resources.dll
+C:\David_Cotal\Desarrollos\ApiNeumaticos\Servicio Cliente\bin\es\System.Web.Helpers.resources.dll
+C:\David_Cotal\Desarrollos\ApiNeumaticos\Servicio Cliente\bin\es\System.Web.Http.resources.dll
+C:\David_Cotal\Desarrollos\ApiNeumaticos\Servicio Cliente\bin\es\System.Web.Http.WebHost.resources.dll
+C:\David_Cotal\Desarrollos\ApiNeumaticos\Servicio Cliente\bin\es\System.Web.Mvc.resources.dll
+C:\David_Cotal\Desarrollos\ApiNeumaticos\Servicio Cliente\bin\es\System.Web.Optimization.resources.dll
+C:\David_Cotal\Desarrollos\ApiNeumaticos\Servicio Cliente\bin\es\System.Web.Razor.resources.dll
+C:\David_Cotal\Desarrollos\ApiNeumaticos\Servicio Cliente\bin\es\System.Web.WebPages.resources.dll
+C:\David_Cotal\Desarrollos\ApiNeumaticos\Servicio Cliente\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\David_Cotal\Desarrollos\ApiNeumaticos\Servicio Cliente\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\David_Cotal\Desarrollos\ApiNeumaticos\Servicio Cliente\obj\Debug\Servicio Cliente.csproj.CopyComplete
+C:\David_Cotal\Desarrollos\ApiNeumaticos\Servicio Cliente\obj\Debug\Servicio Cliente.dll
+C:\David_Cotal\Desarrollos\ApiNeumaticos\Servicio Cliente\obj\Debug\Servicio Cliente.pdb
