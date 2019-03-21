@@ -5,9 +5,11 @@ using System.Linq;
 using System.Net;
 using System.Net.Http;
 using System.Web.Http;
+using System.Web.Http.Cors;
 
 namespace Servicio_Cliente.Controllers
 {
+    [EnableCors(origins: "http://localhost", headers: "*", methods: "*")]
     [AllowAnonymous]
     [RoutePrefix("gpschile/catalogo/cliente")]
     public class ClienteController : ApiController
