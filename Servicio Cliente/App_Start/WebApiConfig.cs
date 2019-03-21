@@ -16,7 +16,7 @@ namespace Servicio_Cliente
 
             config.Routes.MapHttpRoute(
                 name: "DefaultApi",
-                routeTemplate: "gpschile/neumaticos/cliente/{controller}/{id}",
+                routeTemplate: "api/{controller}/{id}",
                 defaults: new { id = RouteParameter.Optional }
             );
         }
