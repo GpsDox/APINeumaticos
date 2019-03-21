@@ -16,7 +16,7 @@ namespace Servicio_Cliente
 
             config.Routes.MapHttpRoute(
                 name: "DefaultApi",
-                routeTemplate: "api/{controller}/{id}",
+                routeTemplate: "gpschile/catalogo/cliente/{controller}/{action}/{id}",
                 defaults: new { id = RouteParameter.Optional }
             );
         }
