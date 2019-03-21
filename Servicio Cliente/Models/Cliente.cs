@@ -10,7 +10,15 @@ namespace Servicio_Cliente.Models
         public Cliente()
         {
             IdCliente = "";
-            }
+            NomCliente = "";
+        }
+
+        public Cliente(string idCliente, string nomCliente)
+        {
+            IdCliente = idCliente;
+            NomCliente = nomCliente;
+        }
         public String IdCliente { get; set; }
+        public String NomCliente { get; set; }
     }
 }

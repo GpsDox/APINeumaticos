@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data;
 using System.Linq;
 using System.Net;
 using System.Net.Http;
@@ -13,10 +14,10 @@ namespace Servicio_Cliente.Controllers
     {
         [HttpGet]
         [Route("clientesUsuario")]
-        public IEnumerable<string> clientesUsuario()
+        public List<Models.Cliente> clientesUsuario(int Usuario)
         {
-            Models.Cliente cliente = new Models.Cliente();
-            return new string[] { "value1", "value2" };
+            App_Classes.ClienteBL.ClienteBL clientebl = new App_Classes.ClienteBL.ClienteBL();
+            return clientebl.clientesUsuario(Usuario);
         }
 
         // GET: api/Cliente/5
