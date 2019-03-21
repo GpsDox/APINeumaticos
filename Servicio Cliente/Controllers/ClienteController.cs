@@ -13,17 +13,27 @@ namespace Servicio_Cliente.Controllers
     public class ClienteController : ApiController
     {
         [HttpGet]
-        [Route("clientesUsuario")]
+        [Route("clientesUsuario/{Usuario}")]
         public List<Models.Cliente> clientesUsuario(int Usuario)
         {
             App_Classes.ClienteBL.ClienteBL clientebl = new App_Classes.ClienteBL.ClienteBL();
             return clientebl.clientesUsuario(Usuario);
         }
 
-        // GET: api/Cliente/5
-        public string Get(int id)
+        [HttpGet]
+        [Route("flotasUsuario/{Usuario}")]
+        public List<Models.Flota> flotasUsuario(int Usuario)
         {
-            return "value";
+            App_Classes.ClienteBL.ClienteBL clientebl = new App_Classes.ClienteBL.ClienteBL();
+            return clientebl.flotasUsuario(Usuario);
+        }
+
+        [HttpGet]
+        [Route("conductoresFlota/{Usuario}/{CodFlota}")]
+        public List<Models.Conductor> conductoresFlota(int Usuario, int CodFlota)
+        {
+            App_Classes.ClienteBL.ClienteBL clientebl = new App_Classes.ClienteBL.ClienteBL();
+            return clientebl.conductoresFlota(Usuario,CodFlota);
         }
 
         // POST: api/Cliente
